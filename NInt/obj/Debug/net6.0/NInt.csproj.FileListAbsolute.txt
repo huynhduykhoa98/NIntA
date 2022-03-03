@@ -1,0 +1,15 @@
+D:\Research\NInt\NInt\bin\Debug\net6.0\NInt.exe
+D:\Research\NInt\NInt\bin\Debug\net6.0\NInt.deps.json
+D:\Research\NInt\NInt\bin\Debug\net6.0\NInt.runtimeconfig.json
+D:\Research\NInt\NInt\bin\Debug\net6.0\NInt.dll
+D:\Research\NInt\NInt\bin\Debug\net6.0\ref\NInt.dll
+D:\Research\NInt\NInt\bin\Debug\net6.0\NInt.pdb
+D:\Research\NInt\NInt\obj\Debug\net6.0\NInt.csproj.AssemblyReference.cache
+D:\Research\NInt\NInt\obj\Debug\net6.0\NInt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Research\NInt\NInt\obj\Debug\net6.0\NInt.AssemblyInfoInputs.cache
+D:\Research\NInt\NInt\obj\Debug\net6.0\NInt.AssemblyInfo.cs
+D:\Research\NInt\NInt\obj\Debug\net6.0\NInt.csproj.CoreCompileInputs.cache
+D:\Research\NInt\NInt\obj\Debug\net6.0\NInt.dll
+D:\Research\NInt\NInt\obj\Debug\net6.0\ref\NInt.dll
+D:\Research\NInt\NInt\obj\Debug\net6.0\NInt.pdb
+D:\Research\NInt\NInt\obj\Debug\net6.0\NInt.genruntimeconfig.cache
